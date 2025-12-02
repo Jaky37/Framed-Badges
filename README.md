@@ -16,22 +16,29 @@ Clique para acessar uma categoria
 ---
 
 ## 🖥️Linguagens
-  |name|img src|HTML (copiar e colar)|
-  |:---|:---:|---:|
-  |***Java***|<img src="assets/java.png" height="28">|`<img src="https://raw.githubusercontent.com/jaky37/badges/main/assets/java.png" height="28" alt="Java">`|
+  | Nome | Img | HTML (copiar e colar) |
+  | :--- | :---: | :--- |
+  | ***Java*** | <img src="assets/java.png" height="28"> | `<img src="https://raw.githubusercontent.com/jaky37/badges/main/assets/java.png" height="28" alt="Java">` |
+
+<br>
 
 ## Ferramentas
-  |name|img src|HTML (copiar e colar)|
-  |:---|:---:|---:|
+  | Nome | Img | HTML (copiar e colar) |
+  | :--- | :---: | :--- |
+
+<br>
 
 ## Sistema opreacionais
-  |name|img src|HTML (copiar e colar)|
-  |:---|:---:|---:|
+  | name | img src | HTML (copiar e colar) |
+  | :--- | :---: | :--- |
+
+<br>
 
 <div align="center">
     <br>
     Jaky🦈.
 </div>
+
 
 
 
