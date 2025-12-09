@@ -25,13 +25,13 @@ Clique para acessar uma categoria
 
 <br>
 
-## Ferramentas
+## 🛠️Ferramentas
   | Nome | Img | HTML (copiar e colar) |
   | :--- | :---: | :--- |
   | **VSCode** | <img src="assets/vscode.png" height="28"> | `<img src="https://raw.githubusercontent.com/jaky37/badges/main/assets/vscode.png" height="28" alt="vscode">` |
 <br>
 
-## Sistema opreacionais
+## 🐧Sistema opreacionais
   | name | img src | HTML (copiar e colar) |
   | :--- | :---: | :--- |
   | **linux** | <img src="assets/linux.png" height="28"> | `<img src="https://raw.githubusercontent.com/jaky37/badges/main/assets/linux.png" height="28" alt="linux">` |
@@ -41,6 +41,8 @@ Clique para acessar uma categoria
     <br>
     Jaky🦈.
 </div>
+
+📑📄📃📋🗄️🗳️🗃️📇📚💻⌨️🖥️🖨️📼🖲️🕹️💽💾💿📀
 
 
 
