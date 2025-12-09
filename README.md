@@ -11,9 +11,9 @@
 
 Clique para acessar uma categoria
 
-* [💻 Linguagens](#-Linguagens)
-* [🛠️Ferramentas](#-Ferramentas)
-* [🐧Sistema opreacionais](#-Sistema-opreacionais)
+* [💻 Linguagens](#-linguagens)
+* [🛠️ Ferramentas](#-ferramentas)
+* [🐧 Sistema opreacionais](#-sistema-opreacionais)
 
 ---
 
@@ -43,6 +43,7 @@ Clique para acessar uma categoria
     <br>
     Jaky🦈.
 </div>
+
 
 
 
