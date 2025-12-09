@@ -28,7 +28,7 @@ Clique para acessar uma categoria
 ## Ferramentas
   | Nome | Img | HTML (copiar e colar) |
   | :--- | :---: | :--- |
-  | **VsCode** | <img src="assets/vscode.png" height="28"> | `<img src="https://raw.githubusercontent.com/jaky37/badges/main/assets/vscode.png" height="28" alt="vscode">` |
+  | **VSCode** | <img src="assets/vscode.png" height="28"> | `<img src="https://raw.githubusercontent.com/jaky37/badges/main/assets/vscode.png" height="28" alt="vscode">` |
 <br>
 
 ## Sistema opreacionais
@@ -41,6 +41,7 @@ Clique para acessar uma categoria
     <br>
     Jaky🦈.
 </div>
+
 
 
 
