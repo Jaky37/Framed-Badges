@@ -11,9 +11,9 @@
 
 Clique para acessar uma categoria
 
-* [💻 Linguagens](#-linguagens)
-* [🛠️ Ferramentas](#-ferramentas)
-* [🐧 Sistema opreacionais](#-sistema-opreacionais)
+* [💻 Linguagens](#🖥️-linguagens)
+* [🛠️ Ferramentas](#🛠️-ferramentas)
+* [🐧 Sistema opreacionais](#🐧-sistema-opreacionais)
 
 ---
 
@@ -34,7 +34,7 @@ Clique para acessar uma categoria
 <br>
 
 ## 🐧Sistema opreacionais
-  | name | img src | HTML (copiar e colar) |
+  | name | Img | HTML (copiar e colar) |
   | :--- | :---: | :--- |
   | **linux** | <img src="assets/linux.png" height="28"> | `<img src="https://raw.githubusercontent.com/jaky37/badges/main/assets/linux.png" height="28" alt="linux">` |
 <br>
@@ -43,6 +43,7 @@ Clique para acessar uma categoria
     <br>
     Jaky🦈.
 </div>
+
 
 
 
